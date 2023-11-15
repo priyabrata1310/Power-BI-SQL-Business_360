@@ -17,7 +17,7 @@
 
 ## Finance View:
 
-- **Project Objective:**
+- **Objective:**
 
     **1.** The objective of the finance view in the project is to provide a comprehensive understanding and analysis of the financial aspects of the business(https://github.com/priyabrata1310/Power-BI-SQL-Business_360/blob/main/Finance_View.png)
 
@@ -43,7 +43,7 @@
 
 ## Sales View:
 
-- **Project Objective:**
+- **Objective:**
 
     **1.** The objective of the sales view in a Business 360 project is to offer a detailed and actionable understanding of the sales performance and dynamics within the busines.(https://github.com/priyabrata1310/Power-BI-SQL-Business_360/blob/main/Sales_View.png)
 
@@ -71,7 +71,7 @@
     
 ## Marketing View:
 
-- **Project Objective:**
+- **Objective:**
 
     **1.** The objective of the marketing view is to offer a detailed understanding of marketing activities and their impact on the business. (https://github.com/priyabrata1310/Power-BI-SQL-Business_360/blob/main/Marketing_View.png)
 
@@ -85,7 +85,7 @@
 
 ## Supply Chain View:
 
-- **Project Objective:**
+- **Objective:**
 
     **1.** The objective of the supply chain view in a Business 360 project is to provide a comprehensive understanding of the end-to-end supply chain processes and operations.(https://github.com/priyabrata1310/Power-BI-SQL-Business_360/blob/main/Supply_Chain_View.png)
 
